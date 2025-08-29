@@ -1,0 +1,8 @@
+Model Information:
+* title:	Green round sunglasses
+* source:	https://sketchfab.com/3d-models/green-round-sunglasses-301e6efbf0c843fc96d99d151a6c5b2e
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
